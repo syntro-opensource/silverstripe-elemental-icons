@@ -39,6 +39,7 @@ To use, simply set the icon in the class using the `elemental-icon-` prefix:
 
 | Icon | Name |
 | ---- | ---- |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/accordion.svg?sanitize=true" alt="accordion" width="32" height="32"> | `accordion` |
 | <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/alert.svg?sanitize=true" alt="alert" width="32" height="32"> | `alert` |
 | <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/features.svg?sanitize=true" alt="features" width="32" height="32"> | `features` |
 | <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/illustrated-features.svg?sanitize=true" alt="illustrated-features" width="32" height="32"> | `illustrated-features` |

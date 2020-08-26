@@ -12,10 +12,6 @@ You can use these icons standalone.
 * none
 
 ## Installation
-Add some installation instructions here, having a 1 line composer copy and paste is useful.
-Here is a composer command to create a new module project. Ensure you read the
-['publishing a module'](https://docs.silverstripe.org/en/developer_guides/extending/how_tos/publish_a_module/) guide
-and update your module's composer.json to designate your code as a SilverStripe module.
 
 ```
 composer require syntro/silverstripe-elemental-icons

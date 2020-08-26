@@ -17,18 +17,7 @@ You can use these icons standalone.
 composer require syntro/silverstripe-elemental-icons
 ```
 
-### Available icons
 
-
-| Icon | Name |
-| ---- | ---- |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/alert.svg?sanitize=true" alt="alert" width="32" height="32"> | `alert` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/features.svg?sanitize=true" alt="features" width="32" height="32"> | `features` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/illustrated-features.svg?sanitize=true" alt="illustrated-features" width="32" height="32"> | `illustrated-features` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/gallery.svg?sanitize=true" alt="gallery" width="32" height="32"> | `gallery` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/spotlight.svg?sanitize=true" alt="spotlight" width="32" height="32"> | `spotlight` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/staff.svg?sanitize=true" alt="staff" width="32" height="32"> | `staff` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/testimonial.svg?sanitize=true" alt="testimonial" width="32" height="32"> | `testimonial` |
 
 ## License
 See [License](license.md)
@@ -45,6 +34,18 @@ To use, simply set the icon in the class using the `elemental-icon-` prefix:
     private static $icon = 'elemental-icon-alert';
 ```
 
+### Available icons
+
+
+| Icon | Name |
+| ---- | ---- |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/alert.svg?sanitize=true" alt="alert" width="32" height="32"> | `alert` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/features.svg?sanitize=true" alt="features" width="32" height="32"> | `features` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/illustrated-features.svg?sanitize=true" alt="illustrated-features" width="32" height="32"> | `illustrated-features` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/gallery.svg?sanitize=true" alt="gallery" width="32" height="32"> | `gallery` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/spotlight.svg?sanitize=true" alt="spotlight" width="32" height="32"> | `spotlight` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/staff.svg?sanitize=true" alt="staff" width="32" height="32"> | `staff` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/testimonial.svg?sanitize=true" alt="testimonial" width="32" height="32"> | `testimonial` |
 
 ## Maintainers
  * Matthias Leutenegger <hello@syntro.ch>

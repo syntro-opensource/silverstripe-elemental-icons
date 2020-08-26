@@ -1,0 +1,19 @@
+{
+    "name": "syntro/silverstripe-elemental-icons",
+    "description": "A collection of icons for Silverstripe elemental",
+    "type": "silverstripe-vendormodule",
+    "keywords": [
+        "silverstripe",
+        "Icons",
+        "Elemental"
+    ],
+    "license": "BSD-3-Clause",
+    "require": {},
+    "extra": {
+        "expose": [
+            "client/dist"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

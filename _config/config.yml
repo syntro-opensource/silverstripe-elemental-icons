@@ -1,0 +1,8 @@
+---
+Name: elemental_icons
+After: 'elemental'
+---
+
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_css:
+    - syntro/silverstripe-elemental-icons:client/dist/styles/bundle.css

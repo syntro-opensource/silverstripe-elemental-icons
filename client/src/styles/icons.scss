@@ -1,12 +1,13 @@
 $icons: (
   accordion,
   alert,
-  gallery,
-  spotlight,
-  testimonial,
-  staff,
   features,
-  illustrated-features
+  gallery,
+  illustrated-features,
+  listgroup,
+  spotlight,
+  staff,
+  testimonial
 );
 
 @each $icon in $icons {

@@ -37,16 +37,17 @@ To use, simply set the icon in the class using the `elemental-icon-` prefix:
 ### Available icons
 
 
-| Icon | Name |
-| ---- | ---- |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/accordion.svg?sanitize=true" alt="accordion" width="32" height="32"> | `accordion` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/alert.svg?sanitize=true" alt="alert" width="32" height="32"> | `alert` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/features.svg?sanitize=true" alt="features" width="32" height="32"> | `features` |
+| Icon                                                                                                                                                                                                    | Name                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/accordion.svg?sanitize=true" alt="accordion" width="32" height="32">                       | `accordion`            |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/alert.svg?sanitize=true" alt="alert" width="32" height="32">                               | `alert`                |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/features.svg?sanitize=true" alt="features" width="32" height="32">                         | `features`             |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/gallery.svg?sanitize=true" alt="gallery" width="32" height="32">                           | `gallery`              |
 | <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/illustrated-features.svg?sanitize=true" alt="illustrated-features" width="32" height="32"> | `illustrated-features` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/gallery.svg?sanitize=true" alt="gallery" width="32" height="32"> | `gallery` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/spotlight.svg?sanitize=true" alt="spotlight" width="32" height="32"> | `spotlight` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/staff.svg?sanitize=true" alt="staff" width="32" height="32"> | `staff` |
-| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/testimonial.svg?sanitize=true" alt="testimonial" width="32" height="32"> | `testimonial` |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/listgroup.svg?sanitize=true" alt="listgroup" width="32" height="32">                       | `listgroup`            |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/spotlight.svg?sanitize=true" alt="spotlight" width="32" height="32">                       | `spotlight`            |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/staff.svg?sanitize=true" alt="staff" width="32" height="32">                               | `staff`                |
+| <img src="https://www.github.com/syntro-opensource/silverstripe-elemental-icons/raw/master/client/src/styles/testimonial.svg?sanitize=true" alt="testimonial" width="32" height="32">                   | `testimonial`          |
 
 ## Maintainers
  * Matthias Leutenegger <hello@syntro.ch>

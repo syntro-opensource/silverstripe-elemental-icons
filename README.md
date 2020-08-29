@@ -1,5 +1,8 @@
 # SilverStripe supported module skeleton
 
+[![composer](https://img.shields.io/packagist/dt/syntro/silverstripe-elemental-icons?color=success&logo=composer)](https://packagist.org/packages/syntro/silverstripe-elemental-icons)
+
+
 This module provides a set of icons primarily used by the elements in the
 [`syntro/silverstripe-elemental-bootstrap-collection`](https://github.com/syntro-opensource/silverstripe-elemental-bootstrap-collection)
 and other elements maintained by us.

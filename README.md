@@ -1,4 +1,4 @@
-# SilverStripe supported module skeleton
+# SilverStripe elemental icons
 
 [![composer](https://img.shields.io/packagist/dt/syntro/silverstripe-elemental-icons?color=success&logo=composer)](https://packagist.org/packages/syntro/silverstripe-elemental-icons)
 
